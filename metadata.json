@@ -1,0 +1,6 @@
+{
+  "name": "ScholarSync: Competitive Exam Schemes Hub",
+  "description": "Discover and understand government and educational schemes relevant to your competitive exam preparations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
